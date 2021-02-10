@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/oquinone/javascript_calculator/static/css/main.c9d676a8.chunk.css",
-    "main.js": "/oquinone/javascript_calculator/static/js/main.62663774.chunk.js",
-    "main.js.map": "/oquinone/javascript_calculator/static/js/main.62663774.chunk.js.map",
-    "runtime-main.js": "/oquinone/javascript_calculator/static/js/runtime-main.4ef7389b.js",
-    "runtime-main.js.map": "/oquinone/javascript_calculator/static/js/runtime-main.4ef7389b.js.map",
-    "static/js/2.1b634478.chunk.js": "/oquinone/javascript_calculator/static/js/2.1b634478.chunk.js",
-    "static/js/2.1b634478.chunk.js.map": "/oquinone/javascript_calculator/static/js/2.1b634478.chunk.js.map",
-    "index.html": "/oquinone/javascript_calculator/index.html",
-    "precache-manifest.25a416895e1b8aece476e3b7570c49cb.js": "/oquinone/javascript_calculator/precache-manifest.25a416895e1b8aece476e3b7570c49cb.js",
-    "service-worker.js": "/oquinone/javascript_calculator/service-worker.js",
-    "static/css/main.c9d676a8.chunk.css.map": "/oquinone/javascript_calculator/static/css/main.c9d676a8.chunk.css.map",
-    "static/js/2.1b634478.chunk.js.LICENSE.txt": "/oquinone/javascript_calculator/static/js/2.1b634478.chunk.js.LICENSE.txt"
+    "main.css": "/javascript_calculator/static/css/main.c9d676a8.chunk.css",
+    "main.js": "/javascript_calculator/static/js/main.62663774.chunk.js",
+    "main.js.map": "/javascript_calculator/static/js/main.62663774.chunk.js.map",
+    "runtime-main.js": "/javascript_calculator/static/js/runtime-main.1b468fd2.js",
+    "runtime-main.js.map": "/javascript_calculator/static/js/runtime-main.1b468fd2.js.map",
+    "static/js/2.1b634478.chunk.js": "/javascript_calculator/static/js/2.1b634478.chunk.js",
+    "static/js/2.1b634478.chunk.js.map": "/javascript_calculator/static/js/2.1b634478.chunk.js.map",
+    "index.html": "/javascript_calculator/index.html",
+    "precache-manifest.2b376f542c5bba4bd4db56e13827ee86.js": "/javascript_calculator/precache-manifest.2b376f542c5bba4bd4db56e13827ee86.js",
+    "service-worker.js": "/javascript_calculator/service-worker.js",
+    "static/css/main.c9d676a8.chunk.css.map": "/javascript_calculator/static/css/main.c9d676a8.chunk.css.map",
+    "static/js/2.1b634478.chunk.js.LICENSE.txt": "/javascript_calculator/static/js/2.1b634478.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ef7389b.js",
+    "static/js/runtime-main.1b468fd2.js",
     "static/js/2.1b634478.chunk.js",
     "static/css/main.c9d676a8.chunk.css",
     "static/js/main.62663774.chunk.js"
